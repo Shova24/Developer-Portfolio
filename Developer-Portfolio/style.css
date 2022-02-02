@@ -83,3 +83,9 @@ section img{
     border-bottom-right-radius: 5px;
 
 }
+
+/* footer section  */
+
+footer p{
+    text-align: center;
+}
