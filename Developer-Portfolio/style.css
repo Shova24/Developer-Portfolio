@@ -15,6 +15,7 @@ h1 span{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 section img{
     width: 100%;
@@ -38,4 +39,12 @@ section img{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 
+
+}
+
+/* Mid section */
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }
